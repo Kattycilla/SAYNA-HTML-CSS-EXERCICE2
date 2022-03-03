@@ -1,0 +1,282 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+ 
+
+.bacground {
+    background-color: #eeeaf3;
+
+}
+.saynah{
+    display: none;
+}
+nav{
+    color: white;
+    display: inline-flex;
+    background-color: #322f36;
+     }
+
+header{
+    background-color: #322f36;
+}
+
+ header ul{ 
+    padding: 50px;
+}
+
+.sayna1{
+padding-left: 500px; 
+margin-top: 50px; }
+
+.get{
+padding-left: 400px;
+margin-top: -100px;
+text-decoration: none;
+color: rgb(0, 201, 236);
+}
+
+
+.ordi{
+    width: 600px;
+height: 400px;
+padding-left: 50px;
+padding-top: 100px;
+margin-left: 600px;
+
+
+}
+
+.bt1{
+    background-color: #3d9f96;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 200px;
+    margin-left: 881px;
+    margin-top: 200px;
+    
+}
+
+div .bt1{
+    text-align: center;
+}
+
+
+.promot{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.paragraphe1{
+    color: white;
+    text-align: center;
+}
+
+.social1{
+    padding-left: 410px;
+}
+.social1 img{
+    width: 75px;
+    padding: 20px;
+}
+.centre{
+    color:#3d9f96 ;
+    text-align: center;
+}
+
+.gris1{
+    background-color: rgb(170, 170, 170);
+}
+.check {
+    color: black;
+    text-align: center;
+    font-weight: lighter;
+}
+.paragraphe2{
+    text-align: center;
+}
+
+.mot1, .mot2 {
+
+    color: black;
+    font-weight: bold;
+}
+.bg{
+    background-color: #FFFFFF;
+}
+
+.gauche{ 
+    margin-left: 500px;
+    margin-top: 200px;
+    padding-top: 200px ;
+    line-height: 40px;
+    width: 170PX;
+    padding: 90px;
+    
+}
+P{
+    color: #7e7e7e;
+}
+
+.iphone{
+    margin-left: 900px;
+    margin-top: -542px;
+    padding-bottom: 400px;
+    padding-top: 40px;
+    
+    
+}
+.droite{
+    margin-left: 1290px;
+    margin-top: -900px;
+    line-height: 30px;
+    width:180px ;
+    height: 640px;    
+
+}
+
+.avatar  {
+        background-color: rgb(1, 1, 43)  ;
+     
+        text-align: center;
+        color:#FFFFFF  ;
+        padding-bottom: 50px;
+        padding-top: 50px;
+}
+ h2 {
+     margin-left: 510px ;
+     line-height: 60px;
+     font-weight: lighter;
+}
+
+.screen{
+    margin: 20px;
+    display: inline-flex;
+    margin-left: 500px;
+  }
+.screen img{
+    padding: 20px;
+}
+
+.tested{
+    text-align: center;
+    color:	#322f36 ;
+    margin-top: -332px;
+    font-family: Helvetica, Arial, sans-serif, 'Raleway'; 
+ }  
+.tested button {
+    padding-bottom: 50px;
+}
+.tested h3{
+    color: black;
+    padding-top: -90px;
+    font-weight: lighter;
+    padding-left: 90px;
+}
+
+
+ .tested p {
+    width: 300px;
+    height: 100px;
+    margin-left: 900px;
+    padding: 20px;
+    /* margin-top: -95px; */
+ }
+ 
+ .button{
+     background-color: #3d9f96;
+     border-radius: 30px;
+     text-decoration: none;
+     padding: 20px;
+     color: #FFFFFF;
+     margin-left: 50px;
+ }
+.Logo{
+    margin-left: 500px;
+    padding: 40px;
+}
+
+.responsive img {
+    margin-left: 900px;
+    padding: 50px;
+}
+.responsive p{
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    margin-top: -400px;
+    margin-right: 700px;
+    margin-left: 500px;
+}
+.visit{
+    color: #FFFFFF;
+    text-align: center;
+    margin-right: 900px;
+    padding: 50px;
+    margin-top: -120px
+
+}
+.sayna2 img {
+width: 300px;
+margin-left: 400px;
+}
+.sayna2 p{
+    text-align: center;
+    width: 300px;
+    margin-left: 400px;
+    color: #7e7e7e;
+}
+.info{
+    margin-top: 70px;
+    padding-left: 800px;
+    margin-top: -150px;
+    color: #7e7e7e;
+
+}
+
+.info b{
+    line-height: 50px;
+    color: black;
+}
+.contact{
+    margin-top:70px ;
+    padding-left: 1000px;
+    margin-top: -140px;
+    width: 190px;
+    color: #7e7e7e
+}
+.contact b{
+    line-height: 50px;
+    color: black;
+}
+
+.icones{
+    padding-left: 1000px;
+    padding-right: 50px;
+    margin-left: 30px;
+    line-height: 40px;
+    padding: 30px;
+    
+
+ }
+ .icones img{
+     margin: 20px;
+ }
+ 
+    footer{
+        float: left;
+        margin-left: 350px;
+        padding: 40px;
+        margin-right: 250px;
+        color: #7e7e7e;
+    }

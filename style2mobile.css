@@ -1,0 +1,42 @@
+@media (max-width: 720px){ 
+    
+.ordi{
+    margin: 0;
+}    
+
+
+nav{
+    display: none;
+}
+.gauche{
+    margin-right: 500px;
+    padding-right: 500px;
+}
+.saynah{
+    display: block;
+    margin: 0 auto;
+}
+.bt1{
+    margin:  0 auto;
+    text-align: center;
+    margin-left: 285px;
+    
+}
+
+.bt{
+
+    padding-top: 50px;
+}
+.gauche{
+    margin-left: 0;
+}
+.iphone{
+    margin-left: 0;
+
+}
+h2{
+    text-align: center;
+}
+
+}
+
